@@ -38,4 +38,4 @@ Industry-leading **ElevenLabs Premium** machine learning platform with fine-tuni
 
 ## System Requirements
 - Works on Windows
-- ~100 MB free space                     
+- ~100 MB free space                      
